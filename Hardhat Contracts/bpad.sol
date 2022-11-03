@@ -1,7 +1,4 @@
-// Bitgert Chain BRC20 Token                                             
-//                                                 
-// TG: https://t.me/brisepadco
-// Web: https://brisepad.co
+// twitter.com/samuelorisamika
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.0;

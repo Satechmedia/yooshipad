@@ -49,7 +49,7 @@ const styles = {
     fontFamily: "Roboto, sans-serif",
     borderBottom: "2px solid rgba(0, 0, 0, 0.06)",
     padding: "0px 10px",
-    boxShadow: "0 1px 10px #f5ba38",
+    boxShadow: "0 1px 10px #86DC3D",
   },
   headerRight: {
     display: "flex",
@@ -189,7 +189,7 @@ export const Logo = () => (
         marginLeft: "50px"
       }}>
     <a href="/">
-      <img src="/logo.png" width="36" alt="" />
+      <img src="/logo.png" width="60px" alt="" />
     </a>
   </div>
 );

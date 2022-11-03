@@ -19,7 +19,7 @@ const styles = {
     borderRadius: "50px",
     border: "none",
     background:
-      "linear-gradient(92.99deg, #20d4b9 -41.39%, #516fd1 54.73%, #8209ea 141.33%)",
+      "linear-gradient(92.99deg, #26580F -41.39%, #378805 54.73%, #26580F 141.33%)",
     cursor: "pointer",
   },
   text: {

@@ -1,10 +1,10 @@
 .body {
-    background: #1f1e3e;
+    background: #0c2301;
     padding: 30px;
     margin: auto;
     width: 50%;
     border-radius: 20px;
-    border: 1px solid #FFD700;
+    border: 1px solid #86DC3D;
     margin-bottom: 100px;
   }
   
@@ -41,7 +41,7 @@
   .tab:active,
   .tab:visited,
   .tab:focus {
-    color: #4a5074 !important;
+    color: #f4f4f6 !important;
   }
   
   .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
@@ -51,7 +51,7 @@
   
   .ant-tabs-ink-bar {
     position: absolute;
-    background: #FFD700;
+    background: #86Dc3D;
     pointer-events: none;
   }
   
@@ -59,7 +59,7 @@
     margin: 10px;
     border-radius: 10px;
     background: transparent;
-    border: #FFD700 solid 1px;
+    border: #86DC3D solid 1px;
     color: #ffffff;
   }
   
